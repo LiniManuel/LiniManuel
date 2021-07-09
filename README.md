@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=LiniManuel&show_icons=true&theme=dark"/>
 <hr>
