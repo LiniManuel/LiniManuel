@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=LiniManuel&show_icons=true&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiniManuel&layout=compact&langs_count=6&theme=dark"/>
+
+<br>
+<h4 align="center">Visitors Counter</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/LiniManuel/count.svg" />
+</p>
