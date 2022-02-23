@@ -22,9 +22,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=LiniManuel&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiniManuel&layout=compact&langs_count=6&theme=dark"/>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/LiniManuel/github-readme-streak-stats" title="Go to Source">
+      <img width=400 src="http://github-readme-streak-stats.herokuapp.com?user=LiniManuel&theme=react&date_format=j%20M%5B%20Y%5D&border=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/alebuffoli/github-readme-stats" title="Go to Source">
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=LiniManuel&count_private=true&show_icons=true&border=61dafb&hide_border=true&theme=react" />
+    </a>
+  </div>
+  <div align=center>
+    <img width="800" src="https://activity-graph.herokuapp.com/graph?username=LiniManuel&theme=react-dark&bg_color=20232a&hide_border=true" />
+  </div>
+</p>
 
 <br>
 <h4 align="center">Visitors Counter</h4>
