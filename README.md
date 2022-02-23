@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+Hi, I'm Manuel Lini, I have always been passionate about the web development world, especially frontend. I'm a FE developer since 2020, studied in Jobs Academy (a technical schol of web software development). I really like teamwork, improve my hard and soft skills and resolve problems during the develop cicle of software.
 
+<br>
 
 
 <!--
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/LiniManuel/github-readme-streak-stats" title="Go to Source">
