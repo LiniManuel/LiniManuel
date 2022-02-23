@@ -3,7 +3,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-Hi, I'm Manuel Lini, I have always been passionate about the web development world, especially frontend. I'm a FE developer since 2020, studied in Jobs Academy (a technical schol of web software development). I really like teamwork, improve my hard and soft skills and resolve problems during the develop cicle of software.
+Hi, I'm Manuel Lini, I am a curious person, passionate about coding, always eager to learn.
+
+I've always been passionate about the web development world, especially frontend, I am currently studying Web Software Development at JobsAcademy.
+
+I really like teamwork, improve my hard and soft skills and resolve problems during the develop cicle of software.
+
+I'm always ready to get involved and become a better developer, 
+
+Follow your passion and you will never work a day in your life.
 
 <br>
 
